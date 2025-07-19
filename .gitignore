@@ -1,4 +1,6 @@
-# Otheer files
+# Other files
+*.pth
+*.npy
 *.gz
 MNIST/
 FashionMNIST/
