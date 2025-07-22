@@ -6,7 +6,8 @@ MNIST/
 FashionMNIST/
 data/
 models/
-nietzsche.txt
+*.txt
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
